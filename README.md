@@ -18,7 +18,7 @@ The complete dataset is available at:
 
 https://www.kaggle.com/datasets/haowenjohnwei/indexpen-user-study
 
-## For the software we mentioned in the appendix for user study, please refer to 
+## Software we mentioned in the appendix for user study
 1. Data Collection Software: https://github.com/ApocalyVec/RealityNavigation 
 2. Stimulus Presentation Software: https://github.com/HaowenWeiJohn/RealityNavigationSPS 
 3. Real-time Inference Application: https://github.com/HaowenWeiJohn/RealityNavigationRealTimeInference
@@ -29,7 +29,7 @@ https://www.kaggle.com/datasets/haowenjohnwei/indexpen-user-study
 TODO: .........
 
 ### For any further questions,
-please leave your comments in "**issues**" or forward it to hw2892@columbia.edu or zl2990@columbia.edu
+please leave your comments in "**issues**" or forward it to hw2892@columbia.edu, zl2990@columbia.edu, or hwei@wpi.edu 
 
 ### Cite The Paper:
 
