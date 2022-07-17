@@ -1,10 +1,13 @@
 
-<Demo Short Video, gif>
+IndexPenDemo
+
+supplementary Video: https://youtu.be/k_DA7Dgi5KY
 
 Colab - <Demo Short Video, gif>
 
 
 This repository is a Jupiter Notebook version of IndexPen User Study 1 that can run in Google Colab.
+
 For complete demonstration of User Study 1 and User Study 2, please refer to https://github.com/HaowenWeiJohn/IndexPen_User_Study.
 The complete dataset is available at: https://www.kaggle.com/datasets/haowenjohnwei/indexpen-user-study
 
