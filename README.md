@@ -29,7 +29,7 @@ https://www.kaggle.com/datasets/haowenjohnwei/indexpen-user-study
 TODO: .........
 
 ### For any further questions,
-please leave your comments in "issue" or forward it to hw2892@columbia.edu or zl2990@columbia.edu
+please leave your comments in "**issue**" or forward it to hw2892@columbia.edu or zl2990@columbia.edu
 
 ### Cite The Paper:
 
