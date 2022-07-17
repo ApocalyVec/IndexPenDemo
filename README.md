@@ -4,6 +4,7 @@
 ## supplementary Video Link: 
 https://youtu.be/k_DA7Dgi5KY
 
+
 ## Introduction:
 This repository is a Jupiter Notebook version of IndexPen User Study 1 that can run in Google Colab.
 
@@ -28,3 +29,19 @@ https://www.kaggle.com/datasets/haowenjohnwei/indexpen-user-study
 
 ### For any further questions,
 please leave your comments in "issue" or forward it to hw2892@columbia.edu or zl2990@columbia.edu
+
+### Cite The Paper:
+
+@article{wei2022indexpen,
+  title={IndexPen: Two-Finger Text Input with Millimeter-Wave Radar},
+  author={Wei, Haowen and Li, Ziheng and Galvan, Alexander D and Su, Zhuoran and Zhang, Xiao and Pahlavan, Kaveh and Solovey, Erin T},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={6},
+  number={2},
+  pages={1--39},
+  year={2022},
+  publisher={ACM New York, NY, USA}
+}
+
+
+Thank you
