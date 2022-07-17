@@ -21,3 +21,10 @@ https://www.kaggle.com/datasets/haowenjohnwei/indexpen-user-study
 2. Stimulus Presentation Software: https://github.com/HaowenWeiJohn/RealityNavigationSPS 
 3. Real-time Inference Application: https://github.com/HaowenWeiJohn/RealityNavigationRealTimeInference
 
+
+## Run The Code
+
+.........
+
+### For any further questions,
+please leave your comments in "issue" or forward it to hw2892@columbia.edu or zl2990@columbia.edu
