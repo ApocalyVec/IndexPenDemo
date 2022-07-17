@@ -23,7 +23,7 @@ https://www.kaggle.com/datasets/haowenjohnwei/indexpen-user-study
 3. Real-time Inference Application: https://github.com/HaowenWeiJohn/RealityNavigationRealTimeInference
 
 
-## Run The Code
+# Run The Code
 
 .........
 
