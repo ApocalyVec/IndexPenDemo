@@ -8,9 +8,10 @@ https://youtu.be/k_DA7Dgi5KY
 ## Introduction:
 This repository is a Jupiter Notebook version of IndexPen User Study 1 that can run in Google Colab.
 
-### To reproduce the complete result of User Study 1 and User Study 2, please refer to
+## To reproduce the complete result of User Study 1 and User Study 2, please refer to
 
 https://github.com/HaowenWeiJohn/IndexPen_User_Study due to on Colab server run time restrictions.
+
 
 ## Dataset
 The complete dataset is available at: 
